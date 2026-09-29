@@ -17,3 +17,9 @@ __pycache__/
 .idea/
 *.swp
 *.swo
+
+# Build & Executable Artifacts
+build/
+dist/
+*.spec
+
