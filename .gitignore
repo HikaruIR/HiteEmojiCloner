@@ -1,0 +1,19 @@
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configs & Sensitive Data
+.env
+*.token
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
